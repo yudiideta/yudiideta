@@ -28,6 +28,19 @@ Busco unir gestão, estratégia e análise de dados para impulsionar decisões m
 
 ---
 
-### Certificados
+### 📜 Certificados
+
+## 🧠 Armazenamento de Dados
+![Armazenamento de Dados](./Armazenamento%20de%20Dados.jpeg)
+
+## 👨‍💻 Cientista de Dados Aspirante
+![Cientista de Dados Aspirante](./Cientista%20de%20Dados%20Aspirante%20.jpeg)
+
+## 📊 Decisões de Negócios
+![Decisões de Negócios](./Decisoes%20de%20negocios.jpeg)
+
+## 🔍 Mestre do Aprendizado de Máquina
+![Image genérica](./Image.png)
+
 
 
